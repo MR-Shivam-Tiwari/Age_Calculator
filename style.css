@@ -1,0 +1,59 @@
+body{
+    background-color: yellowgreen;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    line-height: 1.5;
+
+}
+
+.ente{
+    background-color: aliceblue;
+    width: 40%;
+   margin-left: 30%;
+   border-radius: 10px;
+
+
+}
+.container{
+    background-color: rgb(219, 220, 221);
+    width: 40%;
+    height: 370px;
+    margin-left: 30%;
+    margin-top: 10%;
+    
+    border-radius: 10px;
+ 
+  
+}
+.block{
+    width: 135px;
+    padding: 5px 25px;
+    margin-left: -15px;
+    
+    display: inline-block;
+  }
+.enter{
+   margin-top: 5%;
+   margin-left: -5%;
+  }
+  p{
+    font-size: 25px;
+    color: blue;
+    font-weight: bold;
+  }
+
+  input{
+    background-color:antiquewhite;
+    width: 130px;
+    height: 40px;
+    text-align: center;
+    border-radius: 5px;
+    margin-left: 5%;
+  }
+  #age{
+    font-size: 30px;
+    margin-top:20px;
+    font-weight: bold;
+    color: blue;
+  }
